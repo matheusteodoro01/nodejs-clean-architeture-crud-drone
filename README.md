@@ -2,7 +2,6 @@
   <img width="300px" src="./.github/assets/nodejs-icon.svg" />
   <br />
   <a href="https://www.linkedin.com/in/matheus-teodoro-7bb92818a/">
-    <img alt="Linkedin" src="https://media-exp1.licdn.com/dms/image/C4E03AQHpSbIKngBv2w/profile-displayphoto-shrink_400_400/0/1644551927783?e=1654128000&v=beta&t=4E9Vnk38ieWESxbUVeEn5q3X1_LxNJgrgQES-lI9kV0">
   </a>
 </h1>
 <p align="center">
